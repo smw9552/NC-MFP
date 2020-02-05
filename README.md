@@ -1,2 +1,2 @@
 # NC-MFP
-NC-MFP with python
+NC-MFP calcaulation with python
